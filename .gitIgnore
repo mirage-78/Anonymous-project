@@ -1,1 +1,12 @@
-node_moduls;
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+
+# Package files
+package-lock.json
